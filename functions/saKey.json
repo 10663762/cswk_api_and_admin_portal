@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cswk-payment-platform-7d4a5",
+  "private_key_id": "188ee42ff7c8f1819b7db2ab927bccc4ebb87801",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5FEdtx6VMlgWU\ncZSiuuzvAtQWxfmYg3m03JvZfyWjdhVzwfHHoZR/BMDJfp1nQWXyLc3CWm9ACj9n\nonil315Dr42SMAQCtjPuFBVWYOjZEkJhvzfpDOlNdMMW2cfM3VnYgwab09LkBVPD\nsdG42cxPUiJC56tg7BamxmqxchntR08KyX8ncfKzqDw+oyJ/vJ1XpCaMLvmZo1j6\nw5KSVhh4EA7sAtT0e7hNWkODekxVxKRTK+hBzycOEgajL38CzbNTt+shTBC16xqs\nd6alQyGZU3yR48wPhhUvDBcUN6mhKco9bGLtJELE3QdNChdKMQczKBGROIeoz532\nRmmA+oHTAgMBAAECggEAGAnKPTfxAEF7+AvIglpE68YyRcLw6B4rcJI2q8kX2mM7\n5g0KmiMiZlz3rTQEvaSA2TOZxeR5DphGI++2O9UHKUNj39jcrH19wS5alx1/ILJ+\nbLOpT1ud8bF4pT8j9DfLs5NRCGw6t+L5PjGaS6f+IU9Jo+bzG2OOjZq3wNRRCcBA\nUR1BkrtVCemuAKBxdCFxjSuCDIi+1k4reZ7tSQvvZjlKQZ4LHDBElfXJhASlYWng\nH164JzcoJDYV1pcBoKAGqwnc7MACIX1yaZm8HsOsPt6Nzqbl0RAb3kZ9i7Vl4eFW\nLv8b9kwaORtTf1zFjTTuvQwIExTFl1i/3hU3gjWEAQKBgQD1VaC6X4wEQr1fxYpB\nKyf1MsW2bB9WH0VmYJMT4THVCiM7PkzZZyCnw/Z1B2kE94IDRANZ8m4QEs5gI3gZ\n7tzRn86CyegO0hoGpg7wYfQhnlWqoe9DzygBgHG5FqGbJQtPvBO1Adhf/sLHMGcA\nU2LekOhKQswDJTYniTB3P3LPewKBgQDBIA8vIIhYJeNntkG4SmNnOSr5BrbBV1RF\nIonKe3NoasbMIemR3Gl6NsrMvwKPXc0rXhxMsB8vLlM6VAWVcytee5hTc2SFscjH\nyHMgWmmdvRKcm5ppsjwA9rZnEToZVWfcLfBo8cptNCGSE3xyF7FokwIH0HGMz63v\n9wm/gZ6biQKBgQDA51phET3cH8od4wqJoXBiyVBS1wNwyVfdXvRmvjxbogP/0kXE\n7+TqZRiF/pSiFieBf9oOwKOwOclSKLGH2pyAq2JKzo2MEcHrFmlKtAqs4H3FlFy4\n+csgGynQei4J+n/Ba0YnnlLPcFchHjrvM6HbFR/BPHKDyp+hSKr2KMqSvwKBgB4d\nzcBfpmN4pRnLRjxi/VVfiOAEuAM2hyGw3SQCVGD4JcA3maDxalFwsfdz4gZRbmlQ\n58Ddxj8pTjlOWQCRUTYOuBZrbEWdD95319w3vTin/3sEmPPao5jS4Gb6PMEunF+t\nmkwDSLn24zVQbJuuLjBMnIhzbQG0cT92msKOiBlhAoGAC2VTrwOuchAogba5RH+F\nUKJhrdk3ZeUYf+RlowgMKyqKq7pxy2Prjf0ZxaF0wQ6aM2cuM3s02V3e2mfUC4vj\nsatvFVO+aVgQhfHtj2lD9XSzmfF3Surwkz5tMYB1m7cX8FpZuWjhnujMys6Tc79v\nacr26tz6cSCJ5jwPC5/sfug=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cswk-payment-platform-7d4a5@appspot.gserviceaccount.com",
+  "client_id": "107220863036606559864",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cswk-payment-platform-7d4a5%40appspot.gserviceaccount.com"
+}

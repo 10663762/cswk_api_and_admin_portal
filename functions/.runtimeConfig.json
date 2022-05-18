@@ -1,0 +1,10 @@
+{
+  "twilio": {
+    "auth_token": "a6e27ef02830b97625092b2b6e39922d",
+    "phone_number": "+16098343697",
+    "account_sid": "ACd04ae0c8cd6973ceb899359037b4fa05"
+  },
+  "auth": {
+    "token_secret": "eJ1gC5q2zs"
+  }
+}
